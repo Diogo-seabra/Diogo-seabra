@@ -71,8 +71,4 @@
 
 <img src="https://raw.githubusercontent.com/Diogo-seabra/Diogo-seabra/output/snake.svg" alt="Snake animation" />
 
-###
 
-<p align="left">APAGAAAAAR</p>
-
-###
