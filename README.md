@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">Olá, seja muito bem vindo ao meu perfil👋! <br>Meu  nome é Diogo e eu sou um estudante de Análise e Desenvolvimento de Sistemas a procura de um estágio onde possa desenvolver ainda mais as minhas habilidades</h3>
+<h3 align="left">Olá, seja muito bem vindo ao meu perfil👋! <br>Meu  nome é Diogo e eu sou um estudante de Análise e Desenvolvimento de Sistemas a procura de um estágio para ter a oportunidade de desenvolver ainda mais as minhas habilidades</h3>
 
 ###
 
